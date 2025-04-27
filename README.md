@@ -5,7 +5,7 @@ Website undangan pernikahan ini dirancang untuk memberikan pengalaman undangan y
 ## Fitur Utama
 
 - **💍 Nama Pengantin**  
-  Menampilkan nama pengantin di bagian utama website, misalnya: "Alicia & Budi".
+  Menampilkan nama pengantin di bagian utama website
 
 - **⏳ Countdown Timer**  
   Menampilkan hitung mundur menuju hari pernikahan.
